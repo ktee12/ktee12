@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 &nbsp; I’m currently into AWS, Azure, GCP and Cloud Computing.
 - 👯 &nbsp; I’m looking to collaborate on various technologies such as Web Development, Cloud Computing, and Machine Learning.
 - 💬 &nbsp; Ask me about DevOps, Cloud Development, and Machine Learning.
-- 📫 &nbsp; You can reach me on aderibigbe.adekunle21@gmail.com
+- 📫 &nbsp; You can reach me on adeks1212@gmail.com
 - ⚡ &nbsp; I love playing soccer
 
 <h2>🛠 Tech Stack</h2>
